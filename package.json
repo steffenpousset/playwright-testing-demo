@@ -1,0 +1,14 @@
+{
+  "name": "playwright-testing-demo",
+  "version": "1.0.0",
+  "description": "Playwright is een open-source testframework ontwikkeld door Microsoft voor end-to-end testing van webapplicaties.  \r Het laat toe om browsers zoals Chromium, Firefox en WebKit te automatiseren via één uniforme API.  \r Playwright wordt vaak gebruikt om user flows te testen zoals inloggen, navigeren en formulieren invullen.  \r Het ondersteunt parallelle tests, screenshots, video-opnames en mobiele simulatie.  \r Daarnaast werkt het goed in CI/CD pipelines.  \r Playwright zorgt ervoor dat webtoepassingen correct werken op verschillende browsers en schermgroottes.  \r Het is krachtiger dan oudere tools zoals Selenium dankzij zijn snelheid en betrouwbaarheid.  \r Je kunt tests schrijven in TypeScript, JavaScript, Python, Java of .NET.  \r Deze repository toont enkele eenvoudige voorbeelden met navigatie en zoekacties.  \r Het doel is om te leren hoe je Playwright gebruikt voor browserautomatisatie en testautomatisering.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
